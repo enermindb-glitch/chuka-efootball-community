@@ -1,0 +1,8 @@
+{
+  "name": "CHUKA eFOOTBALL",
+  "description": "Official Chuka University eFootball community, League and weekly Knockout competition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
